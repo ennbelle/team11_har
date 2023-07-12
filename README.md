@@ -1,5 +1,5 @@
 # MULTI-MODAL DATA ANALYSIS AND FUSION FOR HUMAN ACTIVITY RECOGNITION
-*Data Science Pathways Summer Fellowship*
+*Data Science Pathways Summer Fellowship Final Project*
 
 **Description:**
 Human activity recognition (HAR) has a great significance in various fields such as
@@ -12,6 +12,6 @@ representation, and data fusion.
 
 **Student Collaborators:** Sai Kalyan Ayyagari (CSUSB), 
                        Bhavik Khatri (CSUSB), 
-                       Annabelle Tamano (RCCD), 
+                       Annabelle Tamano (RCCD), and 
                        Ynah Niyel Novilla (UCR)
 
