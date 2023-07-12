@@ -9,6 +9,7 @@ including but not limited to data organization, data processing, data visualizat
 representation, and data fusion.
 
 Faculty Mentor: Dr. Qingquan Sun, CSUSB
+
 Student Collaborators: Sai Kalyan Ayyagari (CSUSB), 
                        Bhavik Khatri (CSUSB), 
                        Annabelle Tamano (RCCD), 
