@@ -1,10 +1,10 @@
 # MULTI-MODAL DATA ANALYSIS AND FUSION FOR HUMAN ACTIVITY RECOGNITION
 *Data Science Pathways Summer Fellowship Final Project*
 
-## Student Collaborators
+### Student Collaborators
 Sai Kalyan Ayyagari (CSUSB), Bhavik Khatri (CSUSB), Annabelle Tamano (RCCD), and Ynah Niyel Novilla (UCR)
                        
-## Faculty Mentor
+### Faculty Mentor
 Dr. Qingquan Sun, CSUSB
 
 ## Description
@@ -15,6 +15,7 @@ including but not limited to data organization, data processing, data visualizat
 representation, and data fusion.
 
 ## Research Papers
-![UTD-MHAD] (https://personal.utdallas.edu/~kehtar/UTD-MHAD.html)
-![IEEE] (https://ieeexplore.ieee.org/document/9914219)
+[UTD-MHAD] (https://personal.utdallas.edu/~kehtar/UTD-MHAD.html)
+
+[IEEE] (https://ieeexplore.ieee.org/document/9914219)
 
