@@ -1,4 +1,4 @@
-# MULTI-MODAL DATA ANALYSIS AND FUSION FOR HUMAN ACTIVITY RECOGNITION
+# Multi-Modal Data Analysis and Fusion For Human Activity Recognition
 *Data Science Pathways Summer Fellowship Final Project*
 
 ### Student Collaborators
